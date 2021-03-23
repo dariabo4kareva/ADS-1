@@ -20,6 +20,6 @@ int cbinsearch(int *arr, int size, int value) {
           cnt++;
       }
   }
-  
+
   return cnt;
 }
